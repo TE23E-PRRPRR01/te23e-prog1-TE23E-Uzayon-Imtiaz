@@ -9,4 +9,3 @@ Console.WriteLine("Me llamo " + namn);
 Console.WriteLine("Age check?");
 string Ålder = Console.ReadLine();
 Console.WriteLine("Dawg I'm " + Ålder);
-
