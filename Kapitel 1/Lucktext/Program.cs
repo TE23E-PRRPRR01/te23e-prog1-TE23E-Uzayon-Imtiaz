@@ -1,0 +1,14 @@
+﻿Console.Clear();
+Console.InputEncoding = System.Text.Encoding.Unicode;
+Console.OutputEncoding = System.Text.Encoding.Unicode;
+Console.WriteLine("Välkommen till vår lucktext!");
+Console.WriteLine("Skriv inte ditt namn tack snälla! :D");
+string namn = Console.ReadLine();
+Console.WriteLine("Välj ett adjektiv");
+string adjektiv = Console.ReadLine();
+Console.WriteLine("välj en kroppsdel där du har mycke smärta i.");
+string kroppsdel = Console.ReadLine();
+Console.WriteLine("Vilket område tar det plats i?");
+string område = Console.ReadLine();
+Console.WriteLine("Igår så möte jag Emilio och " + namn + ". " + "Både de invividerna är fast på deras telefon med TikTok i " + område + ".");
+Console.WriteLine("Jag är trött på både dom. Jag känner mig inte bra i " + kroppsdel + ". " + "Nu vill jag " + adjektiv + " hem.");
