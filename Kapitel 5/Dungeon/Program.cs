@@ -96,7 +96,7 @@ else if (händelse == 3)
 }
 else if (händelse == 4)
 {
-    Console.WriteLine("Du upptäker att en person behöver ditt hjälp. Vill du hjälpa personen? ");
+    Console.WriteLine("Du upptäker att en person behöver ditt hjälp. Vill du hjälpa personen? (j/n) ");
 }
 else if (händelse == 5)
 {
