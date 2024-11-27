@@ -1,5 +1,4 @@
 ﻿// Console.Clear();
-// // Console.WriteLine("Hello, World!");
 // // Console.Write("Skriv ditt namn: ");
 // // string namn = Console.ReadLine();
 
